@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **phuongthao96dtc.2004@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1RvRIE4eJDi7SF2BkYfYi5WyXKHra9LEX/view?usp=sharing](https://drive.google.com/file/d/1RvRIE4eJDi7SF2BkYfYi5WyXKHra9LEX/view?usp=sharing)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/nguyen-lam-phuong-thao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nguyen-lam-phuong-thao" height="30" width="40" /></a>
