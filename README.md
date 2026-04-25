@@ -15,7 +15,6 @@
 - 📫 How to reach me **phuongthao96dtc.2004@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<table border="0">
   <tr>
     <td><a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a></td>
     <td><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a></td>
@@ -33,5 +32,4 @@
     <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/></a></td>
     <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a></td>
   </tr>
-</table>
 
